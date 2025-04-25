@@ -9,7 +9,7 @@
   <samp>
     <a href="https://mathieunicolas.fr">「 Mon site 」</a>
     <br> 
-    「🌱 Je suis actuellement en BTS SIO option SLAM 」
+    「🌱 Je suis actuellement en Bachelor Développeur Web 」
     <br>
     <br>
   </samp>
@@ -54,18 +54,13 @@
 ## Mes tops projets
 
 <p align="center">
-  <a href="https://veillerss.mathieunicolas.fr/" target="_blank">
-    VeilleRSS - Le site gratuit d'agrégateur de flux RSS
+  <a href="https://github.com/MathieuNico/B3-LARAVEL" target="_blank">
+    Boxes -> Application de gestion de location de boxes
   </a>
 </p>
 <p align="center">
-  <a href="canin.mathieunicolas.fr" target="_blank">
-    Logiciel de gestion pour une entreprise de toilettage Canin
-  </a>
-</p>
-<p align="center">
-  <a href="https://mathieunicolas.fr/" target="_blank">
-    Mon portfolio !
+  <a href="https://github.com/MathieuNico/MDS_API" target="_blank">
+    Développement d'API avec du WebSocket
   </a>
 </p>
 
