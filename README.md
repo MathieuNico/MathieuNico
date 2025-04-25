@@ -51,7 +51,7 @@
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C873A?style=for-the-badge&logo=phpunit&logoColor=white)
 
-## Mes tops projets
+## Quelques projets...
 
 <p align="center">
   <a href="https://github.com/MathieuNico/B3-LARAVEL" target="_blank">
@@ -61,6 +61,11 @@
 <p align="center">
   <a href="https://github.com/MathieuNico/MDS_API" target="_blank">
     Développement d'API avec du WebSocket
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/BenjaminVQE/MyDigitalProjectFront" target="_blank">
+    Front d'un configurateur web 
   </a>
 </p>
 
